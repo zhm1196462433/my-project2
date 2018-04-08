@@ -1,5 +1,4 @@
-# my-project2
-汽车图集，二手车交易项目<br/>
+# react
 运行方式：<br/>
 安装依赖<br/>
 npm install<br/>
